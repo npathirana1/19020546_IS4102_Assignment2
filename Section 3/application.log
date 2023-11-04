@@ -1,0 +1,18 @@
+2023-11-04 21:38:00,084  INFO [main] UsersPage:49 - First name entered as Saroja
+2023-11-04 21:38:00,290  INFO [main] UsersPage:56 - First name entered as Pathirana
+2023-11-04 21:38:00,533  INFO [main] UsersPage:63 - Email entered as nethmi.pathirana@aiesec.net
+2023-11-04 21:38:00,623  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 21:38:01,884  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Saroja and last name Pathirana
+2023-11-04 21:38:23,538  INFO [main] LoginPage:74 - User name enterd as nethmi.pathirana@gmail.com
+2023-11-04 21:38:23,742  INFO [main] HomePage:49 - Validated Logo
+2023-11-04 21:38:51,247  INFO [main] LoginPage:74 - User name enterd as trainee
+2023-11-04 21:38:51,514  INFO [main] HomePage:49 - Validated Logo
+2023-11-04 21:50:20,755  INFO [main] UsersPage:49 - First name entered as Saroja
+2023-11-04 21:50:20,972  INFO [main] UsersPage:56 - First name entered as Pathirana
+2023-11-04 21:50:21,169  INFO [main] UsersPage:63 - Email entered as nethmi.pathirana@aiesec.net
+2023-11-04 21:50:21,249  INFO [main] UsersPage:68 - New user create button click!
+2023-11-04 21:50:22,481  INFO [main] ActitimeStepDefinitions:102 - User created successfully with first name Saroja and last name Pathirana
+2023-11-04 21:50:38,020  INFO [main] LoginPage:74 - User name enterd as nethmi.pathirana@gmail.com
+2023-11-04 21:50:38,254  INFO [main] HomePage:49 - Validated Logo
+2023-11-04 21:51:03,420  INFO [main] LoginPage:74 - User name enterd as trainee
+2023-11-04 21:51:03,669  INFO [main] HomePage:49 - Validated Logo
